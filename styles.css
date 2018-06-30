@@ -45,3 +45,8 @@ td {
 input[type=number] {
     width: 6em;
 }
+
+input[type=submit] {
+    text-transform: uppercase;
+    
+}
