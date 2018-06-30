@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Raleway', sans-serif;
-    color: #999999;
+    color: #333333;
     text-transform: uppercase;
     font-weight: 500 ;
     letter-spacing: 1px;
@@ -11,10 +11,12 @@ h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    color: #252ea7;
 }
 
 h2 {
     margin: 1em 0 0.25em;
+    color: #252ea7;
 }
 
 h2:first-of-type {
@@ -24,7 +26,7 @@ h2:first-of-type {
 table,
 tr,
 td {
-    border: 1px solid black;
+    border: 1px solid #333333;
 }
 
 table {
